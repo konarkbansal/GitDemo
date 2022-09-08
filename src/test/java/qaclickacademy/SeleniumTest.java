@@ -10,6 +10,9 @@ public class SeleniumTest {
 	{
 		System.out.println("seleniumMaven");
 		System.out.println("seleniumMavenGITTest");
+		System.out.println("seleniumMavenGITTest2");
+		System.out.println("seleniumMavenGITTest3");
+		System.out.println("seleniumMavenGITTest4");
 	}
 	
 	@Test
@@ -17,6 +20,9 @@ public class SeleniumTest {
 	{
 		System.out.println("elementsUI");
 		System.out.println("elementsUIGUITest");
+		System.out.println("elementsUIGUITest2");
+		System.out.println("elementsUIGUITest3");
+		System.out.println("elementsUIGUITest4");
 		
 	}
 }
