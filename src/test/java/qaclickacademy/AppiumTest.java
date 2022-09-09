@@ -17,4 +17,14 @@ public class AppiumTest {
 	{
 		System.out.println("iosApps");
 	}
+	
+	public void windowsApps()
+	{
+		System.out.println("windowsApps");
+	}
+	
+	public void MACApps()
+	{
+		System.out.println("MACApps");
+	}
 }

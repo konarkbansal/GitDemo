@@ -25,4 +25,14 @@ public class SeleniumTest {
 		System.out.println("elementsUIGUITest4");
 		
 	}
+	
+	public void nonelementsUI()
+	{
+		System.out.println("non elementsUI");
+		System.out.println("non elementsUIGUITest");
+		System.out.println("non elementsUIGUITest2");
+		System.out.println("non elementsUIGUITest3");
+		System.out.println("non elementsUIGUITest4");
+		
+	}
 }
