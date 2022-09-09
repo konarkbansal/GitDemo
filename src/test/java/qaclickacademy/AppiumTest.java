@@ -22,4 +22,9 @@ public class AppiumTest {
 	{
 		System.out.println("windowsApps");
 	}
+	
+	public void MACApps()
+	{
+		System.out.println("MACApps");
+	}
 }

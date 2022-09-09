@@ -22,4 +22,10 @@ public class APITest {
 	{
 		System.out.println("restAPIYouTubeDelete");
 	}
+	
+	public void restFBDelete()
+	{
+		System.out.println("restFBDelete");
+	}
+	
 }
