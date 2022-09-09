@@ -17,4 +17,9 @@ public class APITest {
 	{
 		System.out.println("restAPITwitterDelete");
 	}
+	
+	public void restAPIYouTubeDelete()
+	{
+		System.out.println("restAPIYouTubeDelete");
+	}
 }
